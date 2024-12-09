@@ -1,0 +1,4 @@
+FileName,ID,Name,ISIN,UnitPrice
+TestFile1,1,TestA,TestISIN1,100
+TestFile2,2,TestB,TestISIN2,150
+TestFile3,3,TestC,TestISIN3,200

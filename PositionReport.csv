@@ -1,0 +1,4 @@
+"ID","PositionID","ISIN","Quantity","TotalPrice"
+"1","1","TestISIN1","10","1000.0"
+"2","2","TestISIN2","20","3000.0"
+"3","3","TestISIN3","30","6000.0"
